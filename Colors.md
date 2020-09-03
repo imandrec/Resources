@@ -1,6 +1,3 @@
-•BOOKS
-
-
 <a href="https://uigradients.com/">UI Gradients</a>
 
 <a href="https://colorswall.com/">Colors wall</a>

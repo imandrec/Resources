@@ -18,7 +18,7 @@
 
 <a href="http://www.asmarterwaytolearn.com/js/index-of-exercises.html">JavaScript 89 Exercises</a>
 
-<a href="https://www.w3resource.com/javascript-exercises/">JavaScript - Exercises, Practice, Solution</a>
+
 
 
 

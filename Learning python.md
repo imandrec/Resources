@@ -25,7 +25,6 @@
 
 <a href="https://pynative.com/python-exercises-with-solutions/">Python Exercises with Solutions</a>
 
-
 <a href="https://pythonbasics.org/exercises/">Beginner exercises</a>
 
 <a href="https://practity.com/343-2/">PYTHON PRACTICE PROBLEMS, EXERCISES,  PROJECTS, CHALLENGES</a>

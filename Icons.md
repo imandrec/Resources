@@ -10,6 +10,6 @@
 
 <a href="https://lordicon.com/free-icons">Lordicon</a>
 
-<a href:"https://icomoon.io/app/#/select">Icomoon free</a>
+<a href="https://icomoon.io/app/#/select">Icomoon free</a>
 
 <a href="https://www.svgrepo.com/">SVG Icons</a>

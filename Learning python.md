@@ -30,3 +30,15 @@
 <a href="https://practity.com/343-2/">PYTHON PRACTICE PROBLEMS, EXERCISES,  PROJECTS, CHALLENGES</a>
 
 <a href="https://aspp.school/python-summerschool-2011/_media/materials/advanced_python/exercises_and_solutions.pdf">Advanced Python exercises</a>
+
+
+
+
+•DATA SCIENCE
+
+
+<a href="https://www.dataquest.io/">Dataquest</a>
+
+<a href="https://elitedatascience.com/">Elite</a>
+
+<a href="https://courses.benlcollins.com/p/advanced30?affcode=69396_6modibpf">Ben Collins</a>

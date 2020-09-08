@@ -4,7 +4,7 @@
 
 <a href="https://www.coursera.org//">Coursera</a>
 
-<a href="https://www.edx.com/">edX</a>hhhh
+<a href="https://www.edx.com/">edX</a>
 
 <a href="https://www.khanacademy.org/">Khan Academy</a>
 

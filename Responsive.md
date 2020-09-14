@@ -13,13 +13,14 @@ Tablet:
      @media screen and (max-width: 1060px) {
      #primary { width:67%; }
      #secondary { width:30%; margin-left:3%;}  
-}
+     }
+
 Portrait:
 
     @media screen and (max-width: 768px) {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
-}
+    }
 
 <b>•IMAGES</b>
 
@@ -81,4 +82,4 @@ Once done, you can define responsive font sizes as shown below:
 
 •<b>TEST IT</b>
 
-<p>You can check how responsive your website os<a href="http://mattkersley.com/responsive/">Here</a></p>
+<p>You can check how responsive your website is <a href="http://mattkersley.com/responsive/">Here</a></p>

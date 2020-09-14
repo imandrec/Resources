@@ -9,14 +9,16 @@ When you are done with your non-responsive website, the first thing to do is to 
 It’s now time to add some media queries. The first have a maximum width of 1060px and is optimized for tablet landscape display. #primary occupies 67% of its parent container, and #secondary 30%, plus a 3% left margin. The second size is designed for tablet portrait and smaller sizes. Due to the small sizes of smartphones screens, I decided to give #primary a 100% width. #secondary also have a 100% width, and will be displayed below #primary.
 
 Tablet:
+
      @media screen and (max-width: 1060px) {
-         #primary { width:67%; }
-         #secondary { width:30%; margin-left:3%;}  
+     #primary { width:67%; }
+     #secondary { width:30%; margin-left:3%;}  
 }
 Portrait:
-     @media screen and (max-width: 768px) {
-         #primary { width:100%; }
-         #secondary { width:100%; margin:0; border:none; }
+
+    @media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
 }
 
 <b>•IMAGES</b>
@@ -79,4 +81,4 @@ Once done, you can define responsive font sizes as shown below:
 
 •<b>TEST IT</b>
 
-<a href="http://mattkersley.com/responsive/">You can check how responsive is your website Here</a>
+<p>You can check how responsive your website os<a href="http://mattkersley.com/responsive/">Here</a></p>

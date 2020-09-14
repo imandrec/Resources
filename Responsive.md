@@ -1,4 +1,4 @@
-•How to start
+<b>•HOW TO START</b>
 
 When you are done with your non-responsive website, the first thing to do is to paste this lines in the <head>
 
@@ -19,7 +19,7 @@ Portrait:
          #secondary { width:100%; margin:0; border:none; }
 }
 
-•Images
+<b>•IMAGES</b>
 
 Please note that the max-width directive is not recognized by older browsers such as IE6. In order to work, this code snippet have to be inserted into your CSS stylesheet.
 
@@ -38,7 +38,7 @@ Please note that the max-width directive is not recognized by older browsers suc
      }
      
      
-•Videos
+•<b>VIDEOS</b>
 
 HTML
      
@@ -65,7 +65,7 @@ CSS
      height: 100%;
      }
 
-•Typography
+•<b>TYPOGRAPHY</b>
 
 The CSS3 specification included a new unit named rems. They work almost identically to the em unit, but are relative to the html element, which make them a lot easier to use than ems. As rems are relative to the html element, don’t forget to reset html font size:
 
@@ -77,6 +77,6 @@ Once done, you can define responsive font sizes as shown below:
      @media (min-width:960px) { body {font-size:1.2rem;} } 
      @media (min-width:1100px) { body {font-size:1.5rem;} }
 
-•Test it
+•<b>TEST IT</b>
 
 <a href="http://mattkersley.com/responsive/">You can check how responsive is your website Here</a>

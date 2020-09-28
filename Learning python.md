@@ -11,8 +11,6 @@
 
 <a href="https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf">Python para todos ESPANOL</a>
 
-<a href="http://anh.cs.luc.edu/python/hands-on/3.1/Hands-onPythonTutorial.pdf">Hands on python tutorial</a>
-
 <a href="https://pdfhost.io/v/pm8jwGEVp_Python_Notes_for_Professionals.pdf">Python: Notes for professionals</a>
 
 

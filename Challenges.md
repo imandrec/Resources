@@ -16,4 +16,4 @@
 
 <a href=https://www.spoj.com/>SPOJ</a>
 
-<a href=https://www.codingame.com/start>CodinGame</a>
+<a href=https://www.codingame.com/start>CodinGame</a

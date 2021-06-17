@@ -19,3 +19,5 @@
 <a href="https://www.vectary.com/">3D Vectary</a>
 
 <a href="https://material.io/resources">Material</a>
+
+<a href="https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=536DFE&secondary.color=EA80FC">Color Tool</a>

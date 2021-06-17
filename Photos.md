@@ -10,3 +10,5 @@
 
 <a href="https://generated.photos/">Generated photos</a>
 
+<a href="https://pnghunter.com/">PNG Hunter</a>
+

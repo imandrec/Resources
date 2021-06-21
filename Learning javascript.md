@@ -8,6 +8,7 @@
 <a href="https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf">Javascript for impatient programmers ecmascript 2020 Edition</a>
 
 <a href="http://cglab.ca/~morin/teaching/2405/notes/javascript1.pdf">Introduction to Javascript: Carleton University</a>
+;
 
 
 

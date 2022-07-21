@@ -12,3 +12,5 @@
 
 <a href="https://pnghunter.com/">PNG Hunter</a>
 
+<a href="https://www.photopea.com/">Edit photos size</a>
+
